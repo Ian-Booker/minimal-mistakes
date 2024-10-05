@@ -115,7 +115,7 @@ analytics:
 author:
   name             : "Ian Booker"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Builder of Connected/Offline AI Solutions, LLMs & Search Engines | Data Architect | IT & Systems Integration Specialist | Hybrid Cloud & DevSecOps Expert | Data Science Professional"
+  bio              : "Builder of Connected/Offline AI Solutions, LLMs & Search Engines"
   location         : "Chicago"
   email            : ianbooker@duck.com
   links:
